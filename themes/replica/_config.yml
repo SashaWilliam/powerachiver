@@ -1,0 +1,22 @@
+# left-side user profile
+avatar: /images/logo.jpg
+location: Anonymous
+email: powerachiver@protonmail.com
+social:
+  github:
+  weibo:
+  linkedin:
+
+# navbar menu
+menu:
+ archives: true
+ tags: false
+ categories: true
+
+rss_dir: atom.xml
+
+# widget
+ga: # google analytics tracking code UA-XXXXXXX-X
+baidutongji: # baidutongji tracking code
+duoshuo: # duoshuo username
+gsc: # google custom search code
