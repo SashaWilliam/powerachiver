@@ -7,7 +7,7 @@ var linkedin = config.social.linkedin || theme.social.linkedin;
 var location = config.location || theme.location;
 var email = config.email || theme.email;
 var url = config.url;
-var avatar = config.avatar || theme.avatar || 'https://octodex.github.com/images/baracktocat.jpg'
+var avatar = config.avatar || theme.avatar || '/images/logo.jpg'
 %>
 
 <div class="blog-intro">
@@ -51,22 +51,5 @@ var avatar = config.avatar || theme.avatar || 'https://octodex.github.com/images
       <a href="mailto:<%= email %>"><%= email %></a>
     </li>
     <% } %>
-    <li>
-      <i class="fa fa-link"></i>
-      <a href="<%= url %>"><%= url %></a>
-    </li>
   </ul>
-
-  <div class="social-media desktop-only">
-    <h4>Social Media</h4>
-    <ul>
-      <% if(github){ %>
-      <li class="social-media-item"><a href="<%= github %>" target="_blank"><i class="fa fa-github"></i></a></li>
-      <% } if(weibo){ %>
-      <li class="social-media-item"><a href="<%= weibo %>" target="_blank"><i class="fa fa-weibo"></i></a></li>
-      <% } if(linkedin){ %>
-      <li class="social-media-item"><a href="<%= linkedin %>" target="_blank"><i class="fa fa-linkedin"></i></a></li>
-      <% } %>
-    </ul>
-  </div>
 </div>
