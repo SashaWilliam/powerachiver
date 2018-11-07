@@ -1,7 +1,7 @@
 ---
 title: Wall Crawler 80W Vape Package Performs for Cloud Chasers
 date: 2018-9-16 10:30:00
-category: Pocket Size Vape
+category: pocket size vape
 ---
 
 ![](/images/8.jpg)
