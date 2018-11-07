@@ -1,7 +1,7 @@
 ---
 title: 6 Vape Business Success Tips To Increase Vape Store Product sales In 2018
 date: 2018-7-26 09:00:00
-category: Vape Business
+category: vape business
 ---
 
 ![](/images/3.jpg)
