@@ -1,7 +1,7 @@
 ---
 title: How To Attract More Vape Shop Customers
 date: 2018-8-27 08:55:00
-category: Future Marketing
+category: future marketing
 ---
 
 ![](/images/6.jpg)
