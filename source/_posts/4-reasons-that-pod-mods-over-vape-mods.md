@@ -1,18 +1,18 @@
 ---
 title: 4 Reasons that Pod Mods over Vape Mods
 date: 2018-11-01 15:25:00
-category: Pocket Size Vape
+category: pocket size vape
 ---
 
 ## How are pod systems in comparison to traditional types of vaping device?
 
 For a long time, e-cigarettes kept getting bigger and bigger. From cigalikes to vape pens, to tube mods, and then box mods. Reason for this is simple: you can vape for longer without charging and put out bigger clouds with bigger devices. Later, pod systems changed the game. Managing to be portable, simple and satisfying, in some ways they’re the modern equivalent to cigalikes. However, many people are not familiar with the lingo and the difference between vape mods and pod mods.
 
-<!-- more -->
-
 <center>
 ![](/images/11.png)
 </center>
+
+<!-- more -->
 
 As the name suggests, pod systems are e-cigarettes that make use of a “pod” as opposed to a traditional tank or atomizer. They ultimately do the same job: hold the e-liquid and vaporize it to deliver vapor through the mouthpiece. They often have a smaller capacity than most tanks, at between 1 and 2 ml, although some pods are bigger. The pods simply push into place in the top of the device and pull out when you’ve emptied them or want to switch flavors.
 
