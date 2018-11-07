@@ -1,7 +1,7 @@
 ---
 title: Exactly What Is A Vape Starter Kit
 date: 2018-9-19 14:30:00
-category: Vape Kits
+category: vape kits
 ---
 
 ![](/images/5.jpg)
