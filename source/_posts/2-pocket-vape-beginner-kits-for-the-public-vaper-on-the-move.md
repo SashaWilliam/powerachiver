@@ -1,7 +1,7 @@
 ---
 title: 2 Pocket Vape Beginner Kits For The Public Vaper On The Move
 date: 2018-8-02 11:45:00
-category: Vape Kits
+category: vape kits
 ---
 
 ![](/images/4.jpg)
