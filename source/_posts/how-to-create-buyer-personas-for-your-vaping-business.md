@@ -1,7 +1,7 @@
 ---
 title: How To Create Buyer Personas For Your Vaping Business
 date: 2018-9-03 10:30:00
-category: Future Marketing
+category: future marketing
 ---
 
 ![](/images/7.jpg)
