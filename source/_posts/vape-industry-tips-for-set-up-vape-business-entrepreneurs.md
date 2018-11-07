@@ -1,7 +1,7 @@
 ---
 title: Vape Industry Tips For Set Up Vape Business Entrepreneurs
 date: 2018-9-07 10:28:00
-category: Vape Business
+category: vape business
 ---
 
 ![](/images/2.jpg)
