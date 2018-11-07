@@ -1,7 +1,7 @@
 ---
 title: Vape Event Invitation E-cigs Exhibitions Schedule 2018
 date: 2018-8-23 08:00:00
-category: VapeExpo 2018
+category: vapeexpo 2018
 ---
 
 ![](/images/1.jpg)
